@@ -1,2 +1,2 @@
 # Comunicacion entre Componentes
-Sesion 1 sobre componentes y su comunicacion
+LWC componentes y su comunicacion
